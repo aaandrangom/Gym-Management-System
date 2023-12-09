@@ -1,0 +1,3 @@
+# Se debe instalar la libreria para conectar con MySQL con el siguiente comando
+# pip install mysql-connector-python
+mysql-connector-python
