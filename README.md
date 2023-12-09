@@ -1,6 +1,6 @@
 # SISTEMA DE ADMINISTRACIÓN DE GIMNASIO EN PYTHON CON PROGRAMACIÓN ORIENTADA A OBJETOS
 
-El Sistema de Gestión de Gimnasio es una aplicación diseñada para facilitar la administración integral de un gimnasio.
+El Sistema de Gestión de Gimnasio es una aplicación de consola diseñada para facilitar la administración integral de un gimnasio.
 Proporciona herramientas robustas para controlar a los clientes, monitorear a los instructores y gestionar las clases ofrecidas,
 todo respaldado por una base de datos MySQL.
 
