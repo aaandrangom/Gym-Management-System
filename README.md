@@ -10,7 +10,7 @@ todo respaldado por una base de datos MySQL.
 2. Instalar las dependencias con `pip install -r requirements.txt`.
 3. Crear la base de datos en MySQL utilizando el script `database/schema.sql`.
 
-Asegúrese de reemplazar `tu_usuario` y `tu_contrasena` con sus credenciales de MySQL.
+Asegúrese de reemplazar `tu_usuario`, `tu_contraseña` y `nombre_de_la_base_de_datos` con sus credenciales de MySQL.
 
 5. Abra el archivo `database/database.py`.
 
